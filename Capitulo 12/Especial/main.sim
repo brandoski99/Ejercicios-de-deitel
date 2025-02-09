@@ -1,0 +1,8 @@
+5  rem hola este es mi compilador
+10 input x
+15 input y
+20 if 9999 < y goto 45 
+24 print y
+30 goto 99
+45 print x 
+99 end
